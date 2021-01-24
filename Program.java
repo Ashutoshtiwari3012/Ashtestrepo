@@ -48,5 +48,17 @@ public static void main(){
 print "++++++++";;
 echo "----";
 
+printf("This is a c programming code");
+scan("%d" ,&N);
+
+int a,b,c,d;
+
+int main(){
+
+return 0;
+}
+
+
+
 
 }
