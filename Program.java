@@ -42,3 +42,11 @@ public class Main {
     System.out.println(first + " " + operator + " " + second + " = " + result);
   }
 }
+
+public static void main(){
+
+print "++++++++";;
+echo "----";
+
+
+}
