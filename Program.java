@@ -27,21 +27,6 @@ System.out.print("Ashutosh is learning git ");
 System.out.print("Ashutosh is learning git ");
 System.out.print("Ashutosh is learning git ");
 System.out.print("Ashutosh is learning git ");
-      case '-':
-      case '-':
-      case '-':
-      case '-':
-      case '-':
-      case '-':
-      case '-':
-      case '-':
-      case '-':
-System.out.print("Ashutosh is learning git ");
-System.out.print("Ashutosh is learning git ");
-System.out.print("Ashutosh is learning git ");
-System.out.print("Ashutosh is learning git ");
-System.out.print("Ashutosh is learning git ");
-System.out.print("Ashutosh is learning git ");
 System.out.print("Ashutosh is learning git ");
       case '-':
         result = first - second;
