@@ -20,7 +20,21 @@ public class Main {
       case '+':
         result = first + second;
         break;
-
+System.out.print("Ashutosh is learning git ");
+System.out.print("Ashutosh is learning git ");
+System.out.print("Ashutosh is learning git ");
+System.out.print("Ashutosh is learning git ");
+System.out.print("Ashutosh is learning git ");
+System.out.print("Ashutosh is learning git ");
+System.out.print("Ashutosh is learning git ");
+      case '-':
+System.out.print("Ashutosh is learning git ");
+System.out.print("Ashutosh is learning git ");
+System.out.print("Ashutosh is learning git ");
+System.out.print("Ashutosh is learning git ");
+System.out.print("Ashutosh is learning git ");
+System.out.print("Ashutosh is learning git ");
+System.out.print("Ashutosh is learning git ");
       case '-':
         result = first - second;
         break;
