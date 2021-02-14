@@ -7,6 +7,14 @@ public class Main {
 public class Main {
 public class Main {
 public class Main {
+public class Main {
+public class Main {
+public class Main {
+public class Main {
+public class Main {
+public class Main {
+public class Main {
+public class Main {
 
   public static void main(String[] args) {
 
@@ -26,14 +34,21 @@ public class Main {
       case '+':
         result = first + second;
         break;
-System.out.print("Ashutosh is learning git ");
-System.out.print("Ashutosh is learning git ");
-System.out.print("Ashutosh is learning git ");
-System.out.print("Ashutosh is learning git ");
-System.out.print("Ashutosh is learning git ");
-System.out.print("Ashutosh is learning git ");
-System.out.print("Ashutosh is learning git ");
-System.out.print("Ashutosh is learning git ");
+System.out.print("Ashutosh is learning Devops ");
+System.out.print("Ashutosh is learning Devops ");
+System.out.print("Ashutosh is learning Devops ");
+System.out.print("Ashutosh is learning Devops ");
+System.out.print("Ashutosh is learning Devops ");
+System.out.print("Ashutosh is learning Devops ");
+System.out.print("Ashutosh is learning Devops ");
+System.out.print("Ashutosh is learning Devops ");
+System.out.print("Ashutosh is learning Devops ");
+System.out.print("Ashutosh is learning Devops ");
+System.out.print("Ashutosh is learning Devops ");
+System.out.print("Ashutosh is learning Devops ");
+System.out.print("Ashutosh is learning Devops ");
+System.out.print("Ashutosh is learning Devops ");
+System.out.print("Ashutosh is learning Devops ");
       case '-':
         result = first - second;
         break;
