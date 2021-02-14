@@ -68,6 +68,7 @@ System.out.print("Ashutosh is learning Devops ");
     }
 
     System.out.println(first + " " + operator + " " + second + " = " + result);
+    System.out.println(first + " " - operator - " " - second - " = " - result);
   }
 }
 
@@ -91,6 +92,24 @@ return 0;
 
 }
 
+print "More lines are added on 66th line of code";
+print "More lines are added on 66th line of code";
+print "More lines are added on 66th line of code";
+print "More lines are added on 66th line of code";
+print "More lines are added on 66th line of code";
+print "More lines are added on 66th line of code";
+print "More lines are added on 66th line of code";
+print "More lines are added on 66th line of code";
+print "More lines are added on 66th line of code";
+print "More lines are added on 66th line of code";
+print "More lines are added on 66th line of code";
+print "More lines are added on 66th line of code";
+print "More lines are added on 66th line of code";
+print "More lines are added on 66th line of code";
+print "More lines are added on 66th line of code";
+print "More lines are added on 66th line of code";
+print "More lines are added on 66th line of code";
+print "More lines are added on 66th line of code";
 print "More lines are added on 66th line of code";
 print "More lines are added on 66th line of code";
 print "More lines are added on 66th line of code";
