@@ -117,6 +117,10 @@ print "++++++++";;
 echo "----";
 
 printf("This is a c programming code");
+printf("This is a c programming code");
+scan("%d" ,&N);
+
+int a,b,c,d;
 scan("%d" ,&N);
 
 int a,b,c,d;
